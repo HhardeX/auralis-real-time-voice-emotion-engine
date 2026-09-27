@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+dist/
+
+# Audio / ML artifacts
+*.wav
+*.mp3
+*.flac
+*.pt
+*.pth
+*.onnx
+
+# OS
+.DS_Store
+Thumbs.db
